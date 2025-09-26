@@ -17,3 +17,8 @@ Lessons learned
   2. Basic Workflow mit git <-> GitHub
   3. ....
   4. 
+
+
+     Aenderungen durchgefuehrt
+
+  
